@@ -1,0 +1,16 @@
+*{
+  background-color: #EEE;
+}
+.hide {
+  display: none;
+}
+p{
+  border:1px solid black;
+}
+button {
+  display:inline;
+}
+span{
+  font-weight: bold;
+  display:block
+}
